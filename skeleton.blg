@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: skeleton.aux
+The style file: ieeetr.bst
+Database file #1: bib/reference.bib
+Warning--empty journal in Szleper:2014xxa
+Warning--empty journal in Hocker:2007ht
+You've used 35 entries,
+            1876 wiz_defined-function locations,
+            682 strings with 8826 characters,
+and the built_in function-call counts, 8401 in all, are:
+= -- 884
+> -- 219
+< -- 0
++ -- 92
+- -- 57
+* -- 467
+:= -- 1135
+add.period$ -- 35
+call.type$ -- 35
+change.case$ -- 35
+chr.to.int$ -- 0
+cite$ -- 37
+duplicate$ -- 544
+empty$ -- 792
+format.name$ -- 57
+if$ -- 2168
+int.to.chr$ -- 0
+int.to.str$ -- 35
+missing$ -- 32
+newline$ -- 108
+num.names$ -- 35
+pop$ -- 100
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 415
+stack$ -- 0
+substring$ -- 392
+swap$ -- 272
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 71
+width$ -- 37
+write$ -- 344
+(There were 2 warnings)

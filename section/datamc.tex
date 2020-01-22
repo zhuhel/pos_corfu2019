@@ -1,0 +1,38 @@
+The data sets for this analysis were recorded using single and multi-lepton triggers.
+The transverse momentum (\pT) thresholds of these triggers vary from 8 to 26~\GeV{},
+depending on the lepton flavour and data-taking periods.
+The overall trigger efficiency for selected inclusive $ZZjj$ signal events in the analysis region ranges from 95 to 99\%{}.
+After removing the short data-taking periods with problems affecting the lepton reconstruction,
+the total integrated luminosity used in the analysis is 139 \ifb.
+
+The EW $ZZjj$ production is modelled using \MGMCatNLO~2.6.1~\cite{Alwall:2014hca} matrix elements (ME) calculated in the LO approximation
+in perturbative QCD (pQCD) and with NNPDF2.3LO~\cite{Ball:2012cx} parton distribution functions (PDF).
+The QCD $ZZjj$ production is modelled using \textsc{Sherpa} 2.2.2~\cite{Gleisberg:2008ta} with the NNPDF3.0NNLO~\cite{ball2015parton} PDF,
+where events with up to one (three) outgoing partons are generated at NLO (LO) in pQCD.
+The production of $ZZjj$ from the gluon-gluon initial state with a four-fermion loop or with an exchange of the Higgs boson has an order of $\alpha_{S}^{4}$ in QCD,
+and is not included in the \textsc{Sherpa} simulation.
+This process, denoted as the $ggZZjj$ process, is modelled using \textsc{Sherpa} 2.2.2 with the NNPDF3.0NNLO PDF in the \lllljj channel,
+and using \textsc{gg2VV}~\cite{Kauer:2013qba} with the CT10NNLO PDF~\cite{Gao:2013xoa} in the \llvvjj channel.
+Due to the limited accuracy of ME calculation, the second (both) jets in $ggZZjj$ events are produced in parton showering in the \lllljj (\llvvjj) channel.
+The leptonic decays of $Z$ bosons are included in the simulation.
+Interference between EW and QCD $ZZjj$ is modelled with \MGMCatNLO~2.6.1 calculated at LO. 
+
+The production of QCD $WWjj$ as well as EW and QCD $WZjj$ with the subsequent leptonic decays of vector bosons are modelled with \textsc{Sherpa} 2.2.2 with NNPDF3.0NNLO PDF.
+Diboson processes with the subsequent semileptonic decays ($WW \rightarrow lvqq$ and $WZ \rightarrow qqll$)
+are modelled using \textsc{Powheg-Box}~v2~\cite{Frixione:2007nw} with the CT10 PDF~\cite{Lai:2010vv}.
+Triboson production is modelled using \textsc{Sherpa} 2.2.2 with NNPDF3.0NNLO PDF.
+For top-quark pair production, the \textsc{Powheg-Box}~v2 event generator with the CT10 PDF is used.
+The production of single top-quark in $t$-channel, $s$-channel and $Wt$-channel were simulated using the \textsc{Powheg-Box}~v1 event generator~\cite{Alioli:2009je,Frederix:2012dh,Re:2010bp}.
+The production of \ttbar~in association with vector bosons ($ttV$) is modelled with \MGMCatNLO~2.3.3 for $ttW$ and $ttZ$ with the $Z$ to $\nu\nu/qq$ decays,
+with \MGMCatNLO~2.2.2 for $ttWW$, and with \textsc{Sherpa} 2.2.1 for $ttZ$ with the $Z$ to dilepton decays, respectively.
+The \Zjet processes are modelled using \textsc{Sherpa} 2.2.1 with NNPDF3.0NNLO PDF, where the ME is calculated for up to two partons with next-to-leading-order (NLO) accuracy in pQCD and up to four partons with LO accuracy.
+
+The parton showering is modelled with \textsc{Pythia}~8.186~\cite{Sjostrand:2007gs} using NNPDF2.3~\cite{Ball:2012cx} PDF and the A14 set of tuned parameters~\cite{ATL-PHYS-PUB-2014-021}
+for all the samples except for those from \textsc{Sherpa}, where parton showering is simulated within the \textsc{Sherpa} programme.
+
+All simulated events were processed with a detailed detector simulation~\cite{SOFT-2010-01} based on \textsc{Geant4}~\cite{Agostinelli:2002hh}.
+Furthermore, simulated inelastic $pp$ collisions were overlaid to model additional $pp$ collisions in the same and neighbouring bunch crossings~(pileup).
+Simulated events were reweighted to match the pileup conditions in the data. All simulated events were processed using the same reconstruction algorithms as used in data.
+Furthermore, the lepton and jet momentum scale and resolution, and the lepton reconstruction, identification, isolation and trigger efficiencies in the simulation were corrected to match those measured in data.
+
+

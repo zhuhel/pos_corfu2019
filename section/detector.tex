@@ -1,0 +1,30 @@
+\newcommand{\AtlasCoordFootnote}{%
+ATLAS uses a right-handed coordinate system with its origin at the nominal interaction point (IP)
+in the centre of the detector and the \(z\)-axis along the beam pipe.
+The \(x\)-axis points from the IP to the centre of the LHC ring,
+and the \(y\)-axis points upwards.
+Cylindrical coordinates \((r,\phi)\) are used in the transverse plane, 
+\(\phi\) being the azimuthal angle around the \(z\)-axis.
+The pseudorapidity is defined in terms of the polar angle \(\theta\) as \(\eta = -\ln \tan(\theta/2)\).
+Angular distance is measured in units of \(\Delta R \equiv \sqrt{(\Delta\eta)^{2} + (\Delta\phi)^{2}}\).}
+
+The ATLAS experiment~\cite{PERF-2007-01,ATLAS-TDR-2010-19,Abbott:2018ikt} at the LHC is a multi-purpose particle detector
+with a forward-backward symmetric cylindrical geometry and a near \(4\pi\) coverage in 
+solid angle.\footnote{\AtlasCoordFootnote}
+It consists of an inner tracking detector (ID) surrounded by a thin superconducting solenoid
+providing a \SI{2}{\tesla} axial magnetic field, electromagnetic and hadron calorimeters, and a muon spectrometer.
+The inner tracking detector covers the pseudorapidity range \(|\eta| < 2.5\).
+It consists of silicon pixel, silicon microstrip, and transition radiation tracking detectors.
+Lead/liquid-argon (LAr) sampling calorimeters provide electromagnetic (EM) energy measurements
+with high granularity.
+A hadron (steel/scintillator-tile) calorimeter covers the central pseudorapidity range (\(|\eta| < 1.7\)).
+The end-cap and forward regions are instrumented with LAr calorimeters
+for both EM and hadronic energy measurements up to \(|\eta| = 4.9\).
+The muon spectrometer (MS) surrounds the calorimeters and is based on
+three large air-core toroidal superconducting magnets with eight coils each.
+The field integral of the toroids ranges between \num{2.0} and \SI{6.0}{\tesla\metre}
+across most of the detector. 
+The muon spectrometer includes a system of precision tracking chambers and fast detectors for triggering.
+A two-level trigger system~\cite{TRIG-2016-01} is used to select events for offline analysis. 
+The first-level trigger is implemented in hardware and uses a subset of the detector information. 
+This is followed by the software-based high-level trigger, that reduces the event rate to about 1 kHz.

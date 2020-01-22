@@ -1,0 +1,101 @@
+The data sets for this analysis were recorded using single and multi-lepton triggers.
+The transverse momentum (\pT) thresholds of these triggers vary from 8 to 26~\GeV{},
+depending on the lepton flavour and data-taking periods.
+The overall trigger efficiency for selected inclusive $ZZjj$ signal events in the analysis region ranges from 95 to 99\%{}.
+After removing the short data-taking periods with problems affecting the lepton reconstruction,
+the total integrated luminosity used in the analysis is 139 \ifb.
+
+The selection of the \lllljj and \llvvjj events relies on multiple physics objects, including electrons, muons, jets, and \met.
+Events are first required to have a collision vertex associated with at least two tracks each with $\pt>0.4$ \GeV.
+The vertex with the highest scalar sum of \pt{} of the associated tracks is referred to as the primary vertex.
+
+Muons are identified by tracks reconstructed in the MS and are matched to tracks reconstructed in the ID. In the region $2.5<|\eta|<2.7$, muons can also be identified by an MS track alone (denoted as stand-alone muons).
+The identified muons described above are required to have \pT{} $>$ 7~\GeV{}.
+In the MS gap region ($|\eta|<0.1$) muons are identified by an ID track with \pT{} $>$ 15~\GeV{}
+associated with a compatible calorimeter energy deposit (denoted calorimeter-tagged muons).
+Muons are required to have $|\eta| <$ 2.7 (2.5) and satisfy `loose' (`medium') identification criterion~\cite{PERF-2015-10} in the \lllljj (\llvvjj) channel. 
+
+Electrons are reconstructed from energy deposits in the electromagnetic calorimeter matched to a track in the ID.
+The electron identification imposes requirements on the number of hits in the ID and on a likelihood discriminant,
+built from variables related to EM calorimeter shower shapes, track-cluster matching, track quality, and transition radiation.
+Electrons must satisfy the `loose' (`medium') identification criterion~\cite{Aaboud:2019ynx} in the \lllljj (\llvvjj) channel, and have \pT{} $>$ 7~\GeV{} and $|\eta| < 2.47$.
+
+All electrons and muons are required to be isolated by requiring small activity in regions of the ID and calorimeters that surround them,
+and the `FixedCutLoose' and `loose' isolation criteria~\cite{PERF-2015-10,Aaboud:2019ynx} are imposed in the \lllljj and \llvvjj channels, respectively. Furthermore, leptons are required to have associated tracks satisfying $|d_0/\sigma_{d_0}|<5~(3)$ and $|z_0\times\sin\theta|<0.5$ mm for electrons~(muons), where $d_0$ is the transverse impact parameter relative to the beam line, $\sigma_{d_0}$ is its uncertainty, and $z_0$ is the longitudinal impact parameter relative to the primary vertex.
+
+Jets are clustered using the anti-$k_t$ algorithm~\cite{antikt_algorithm,Fastjet} with radius parameter $R = 0.4$. The jet energy scale is calibrated using simulation and further corrected with in-situ methods~\cite{Aaboud:2017jcu}. 
+A jet-vertex tagger~\cite{PERF-2014-03} is applied to jets with $\pT<60$~\GeV\ and $|\eta|<2.4$ to preferentially select jets from the hard interaction. In addition, jets containing $b$-hadrons ($b$-jets) are identified using a multivariate algorithm ($b$-tagging)~\cite{bjets}. The chosen $b$-tagging algorithm has an efficiency of 85\%{} for $b$-jets and a rejection factor of 33 against light-flavour jets.
+
+An overlap-removal procedure detailed in Ref.~\cite{Aad:2016eki} is applied to the selected leptons and jets in the \llvvjj channel,
+to avoid ambiguities in the event selection and in the energy measurement of the physics objects.
+A similar approach is adopted in the \lllljj channel, except that leptons are given a higher priority to be kept when overlapping with jets, to enhance the selection efficiency.
+The $\vec{E}_{\mathrm{T}}^{\mathrm{miss}}$ vector is computed as the negative of the vector sum of transverse momenta of all the leptons and jets, as well as the tracks originating from the primary vertex but not associated with any of the leptons or jets (``soft-term'')~\cite{ATL-PHYS-PUB-2015-027}. The soft-term is computed such that it minimises the impact of pile-up in the \met{} reconstruction. The statistical significance of \met~is built using resolution information of physics objects used in the \met~reconstruction~\cite{ATLAS-CONF-2018-038}.
+
+In the \lllljj channel, quadruplets of leptons are formed by selecting two opposite-sign, same-flavour (OSSF) lepton pairs ($\ell^+\ell^-$), where the leptons are required to be separated from each other by $\Delta R >0.2$.
+At most one muon is allowed to be a stand-alone or calorimeter-tagged muon, and the three leading leptons must have \pt{} $>$ 20, 20 and 10~\GeV{}, respectively.
+If multiple quadruplets are found, the one that minimises the sum of the differences between the dilepton masses and the nominal $Z$ boson mass,
+$|m_{\ell^+\ell^-} - m_Z| + |m_{\ell^{'+}\ell^{'-}} - m_Z|$, is selected.
+The dilepton masses are required to be within 66--116~\GeV{}.
+In the \lllljj channel with four electrons ($4e$) or four muons ($4\mu$), all the $\ell^+\ell^-$ pairs are required to have $m_{\ell^+\ell^-} > 10$~\GeV{},
+to reject events from low mass resonances. 
+
+In the \llvvjj channel candidate events  are required to have one OSSF lepton pair with $m_{\ell^+\ell^-}$ in the range from 80 to 100~\GeV{},
+and the leading (sub-leading) lepton must have \pt{} $>$ 30 (20)~\GeV{}.
+Events with $b$-tagged jets or additional leptons (\pt{} $>$ 7~\GeV{} and satisfying `loose' requirement) are rejected, to reduce the background contributions from \ttbar~and $WZ$ events.
+Events should satisfy the requirement of \met-significance greater than 12 to suppress the background from \Zjet processes.
+
+In both channels, the two most energetic jets satisfying $y_{j_1} \times y_{j_2} < 0$ are selected.
+In the \lllljj channel the jets are required to have \pT $>$ 30~(40)~\GeV{} in the $|\eta| < 2.4 (2.4 < |\eta| < 4.5)$ region,
+while in the \llvvjj channel the selected jets are required to have \pT $>$ 60 (40)~\GeV{} for the leading (sub-leading) one.
+Finally, to further suppress background contributions, \mjj is required to be greater than 300 (400)~\GeV{} in the \lllljj (\llvvjj) channel, and \dyjj is required to be greater than two.
+The harsher jet requirement in the \llvvjj channel is optimised to suppress the more significant contamination from reducible backgrounds. 
+
+The analysis signal regions (SRs), defined with the above selection requirements, are summarized in Table~\ref{tab:selection_reco}.
+
+\begin{table}[!htbp]
+\begin{center}
+\scalebox{0.75} {
+\begin{tabular}{c c c}
+\hline
+\hline \noalign{\smallskip}
+        & \lllljj                                                                            & \llvvjj                                                            \\
+\noalign{\smallskip}\hline\noalign{\smallskip}
+\multirow{2}{*}{Electrons} & \multicolumn{2}{c}{$\pT >$ 7~\GeV{}, $|\eta| <$ 2.47}                                   \\
+                     & \multicolumn{2}{c}{$|d_0/\sigma_{d_0}|<5$ and $|z_0\times\sin\theta|<0.5$ mm}                                                              \\
+\noalign{\smallskip}\hline\noalign{\smallskip}
+\multirow{2}{*}{Muons}         & $\pT >$ 7~\GeV{}, $|\eta| <$ 2.7                                                 & $\pT >$ 7~\GeV{}, $|\eta| <$ 2.5             \\
+                     & \multicolumn{2}{c}{$|d_0/\sigma_{d_0}|<3$ and $|z_0\times\sin\theta|<0.5$ mm}                                                              \\
+\noalign{\smallskip}\hline\noalign{\smallskip}
+Jets      & $\pT >$ 30 (40)~\GeV{} for $|\eta| <$ 2.4 ($2.4<|\eta|<4.5$)                   & $\pT >$ 60 (40)~\GeV{} for the leading (sub-leading) jet               \\ 
+\noalign{\smallskip}\hline\noalign{\smallskip}
+\multirow{5}{*}{$ZZ$ selection}  & $\pT >$ 20, 20, 10~\GeV{} for the leading, sub-leading and third leptons     & $\pT >$ 30 (20)~\GeV{} for the leading (sub-leading) lepton  \\
+                     & Two OSSF lepton pairs with smallest $|m_{\ell^+\ell^-} - m_Z| + |m_{\ell^{'+}\ell^{'-}} - m_Z|$   & One OSSF lepton pair and no third leptons    \\
+                     & $m_{\ell^+\ell^-} >$ 10~\GeV{} for lepton pairs                                      & 80 $< m_{\ell^+\ell^-} <$ 100~\GeV{}                             \\
+                     & $\Delta R(\ell,\ell') >$ 0.2                                                         & No b-tagged jets                                             \\
+                     & 66 $< m_{\ell^+\ell^-} <$ 116~\GeV{}                                                  & \met significance $>$ 12                                     \\
+\noalign{\smallskip}\hline\noalign{\smallskip}
+\multirow{2}{*}{Dijet selection}  & \multicolumn{2}{c}{Two most energetic jets with $y_{j_1} \times y_{j_2} < 0$}                                                        \\
+                     & \mjj $>$ 300~\GeV{} and \dyjj $>$ 2                                              & \mjj $>$ 400~\GeV{} and \dyjj $>$ 2                          \\
+\noalign{\smallskip}\hline
+\hline
+\end{tabular}}
+\end{center}
+\caption{Summary of selection of physics objects and candidate events at detector level in the \lllljj and \llvvjj signal regions.}
+\label{tab:selection_reco}
+\end{table}
+
+
+The fiducial volumes for the cross-section measurements are defined closely following the detector-level selections,
+using `particle-level' physics objects, which are reconstructed in simulation from stable final-state particles, prior to their interactions with the detector.
+For electrons and muons, QED final-state radiation is for the most part recovered by adding to the lepton four-momentum the four-momenta of surrounding photons
+not originating from hadrons within an angular distance $\Delta R < 0.1$.
+Particle-level jets are built with the anti-$k_t$ algorithm with radius parameter $R = 0.4$,
+using all final-state particles (excluding muons and neutrinos) as input.
+Particle-level \met is defined as the vector sum of all the transverse momenta of neutrinos not originating from hadrons.
+In the \lllljj channel, the dilepton mass requirement is relaxed (with respect to the detector-level selection) to be within 60 to 120~\GeV{}
+to reduce the migration effect and keep compatibility with the previous CMS publication~\cite{Sirunyan:2017fvv}.
+In the \llvvjj channel, both electrons and muons are selected in the $|\eta| <$ 2.5 region to simplify the lepton selections.
+In addition, no requirement is applied on \met significance due to the complexity of defining this variable at `particle-level',
+however, particle-level \met is required to be greater than 130~\GeV{}.
+All the other kinematic selection requirements have the same definition as the detector-level ones.
+

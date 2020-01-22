@@ -1,0 +1,93 @@
+% Please make sure you insert your
+% data according to the instructions in PoSauthmanual.pdf
+\documentclass{PoS}
+
+\usepackage{amsmath}
+\usepackage{siunitx}
+\usepackage{multirow}
+
+\usepackage{skeleton-defs}
+\usepackage{latex/atlasunit}
+\usepackage{latex/atlasparticle}
+\usepackage{latex/atlasjournal}
+\usepackage{latex/atlasmisc}
+\usepackage{latex/atlasphysics}
+
+\title{Messurement of inclusive cross section and observation of electroweak production of two jets in association with a $Z$-boson pair
+in $pp$ collisions at $\sqrt{s} = 13$~\TeV~with the ATLAS detector
+}
+
+\ShortTitle{Short Title for header}
+
+\author{\speaker{Heling Zhu, on behalf of the ATLAS Collaboration}\\
+        University of Science and Technology of China, Brookhaven National Lab\\
+        E-mail: \email{heling.zhu@cern.ch}}
+
+\abstract{
+    The observation of electroweak production of two jets in association with a $Z$-boson pair
+    using 139 \ifb~of $pp$ collision data at $\sqrt{s} =$ 13 \TeV~collected by the ATLAS detector at the LHC is presented.
+    Two different final states originating from the decays of the $Z$ boson pair,
+    one containing four charged leptons, and the other two charged leptons and two neutrinos, are considered.
+    A significant deviation from the background-only hypothesis is observed,
+    which corresponds to a statistical significance of 5.5 $\sigma$.
+    The observed excess is compatible with the electroweak production of two jets in association with a $Z$-boson pair.
+    In addition, cross-sections for inclusive production of $ZZ$ plus two jets,
+    as well as the observed signal strength of the EW production, are reported.
+}
+
+\FullConference{Corfu Summer Institute 2019 "School and Workshops on Elementary Particle Physics and Gravity" (CORFU2019)\\
+		31 August - 25 September 2019\\
+		Corfù, Greece}
+
+\begin{document}
+
+%-------------------------------------------------------------------------------
+\section{Introduction}
+\label{sec:intro}
+\input{section/intro.tex}
+
+%-------------------------------------------------------------------------------
+\section{ATLAS detector}
+\label{sec:detector}
+\input{section/detector.tex}
+
+%-------------------------------------------------------------------------------
+%\section{Data and simulation}
+%\label{sec:datamc}
+%\input{section/datamc.tex}
+
+%-------------------------------------------------------------------------------
+\section{Event selection}
+\label{sec:sel}
+\input{section/selection.tex}
+
+%-------------------------------------------------------------------------------
+\section{Background estimation}
+\label{sec:bkg}
+\input{section/background.tex}
+
+%-------------------------------------------------------------------------------
+\section{Uncertainties}
+\label{sec:unc}
+\input{section/uncertainty.tex}
+
+%-------------------------------------------------------------------------------
+\section{Measurement of fiducial cross-sections}
+\label{sec:xs}
+\input{section/cross-section.tex}
+
+%-------------------------------------------------------------------------------
+\section{Search for electroweak $ZZjj$}
+\label{sec:ewk}
+\input{section/electroweak.tex}
+
+%-------------------------------------------------------------------------------
+\section{Conclusion}
+\label{sec:conclusion}
+\input{section/conclusion.tex}
+
+%-------------------------------------------------------------------------------
+\bibliography{bib/reference}
+\bibliographystyle{ieeetr}
+
+\end{document}

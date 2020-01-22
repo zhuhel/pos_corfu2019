@@ -1,0 +1,21 @@
+This analysis performs cross-section measurements in the fiducial volumes as well as a statistical fit to MD distributions to extract the EW $ZZjj$ contributions. Therefore, experimental and theoretical uncertainties may influence the analysis in the predictions of background yields and MD shapes,
+correction factors to extrapolate the QCD and EW $ZZjj$ events from detector-level to fiducial volume
+(i.e. $C$-factors, calculated as the ratio of the number of $ZZjj$ events passing the detector-level event selection to the number of events selected in the fiducial volume), as well as $ZZjj$ MD shapes.
+The statistical uncertainties of the simulated samples for both the signal and background processes are also taken into account.
+The systematic uncertainty sources that affect $ZZjj$ production are detailed below.
+%, while the uncertainties specific to background estimation will be discussed in the following section.
+
+The major experimental uncertainties originate from the luminosity uncertainty, the momentum scale and resolution of leptons and jets,
+as well as from the lepton reconstruction and selection efficiencies.
+Smaller experimental uncertainties are also considered, such as those due to the trigger selection efficiency, the calculation of the \met~soft-term, the pile-up correction, and the $b$-jet identification efficiency. Overall, the total experimental uncertainty in $C$-factors~is 5--10\%, dominated by the jet and lepton components. The uncertainty in the combined 2015--2018 integrated luminosity is 1.7\%~\cite{ATLAS-CONF-2019-021}, obtained using the LUCID-2 detector \cite{LUCID2} for the primary luminosity measurements.
+In addition, a conservative uncertainty is assigned on the QCD $ZZjj$ processes by comparing the MD distributions in low and high pile-up conditions, to account for a potential mismodelling of pile-up in simulation.
+
+The theoretical uncertainties on the EW and QCD $ZZjj$ processes include the uncertainties from PDF, QCD scales, $\alpha_{S}$, and parton showering. The PDF uncertainty is estimated following the PDF4LHC~\cite{Butterworth:2015oua} procedure, where the envelope of the NNPDF internal errors and the differences between the nominal and alternative PDFs are considered as the final uncertainty.
+The QCD scale uncertainty is estimated by varying independently by factors of 0.5 to 2.0 the nominal renormalisation and factorisation scales ($\mu_r$ and $\mu_f$),
+which results in seven different configurations excluding the two extreme variations, ($\mu_r = 2$, $\mu_f = 0.5$) and ($\mu_r = 0.5$, $\mu_f = 2$),
+where the largest deviation is chosen as the uncertainty.
+The parton showering uncertainty is estimated by comparing the nominal \textsc{Pythia8} parton showering with the alternative \textsc{Herwig7}~\cite{Bellm:2015jjp, Bahr:2008pv} algorithm. The $\alpha_{S}$ uncertainty is estimated by varying the $\alpha_{S}$ value within $\pm$ 0.001. The interference effect between the EW and QCD processes is checked with \MGMCatNLO~2.6.1 at particle level, and found to be +7(+2)\% of the EW contribution in the fiducial volume in the \lllljj (\llvvjj) channel. This effect is taken as an additional uncertainty in the EW $ZZjj$ predictions. The total theoretical uncertainty in the fiducial volume yields for the EW (QCD) $ZZjj$ process is estimated to be about 10\% (30\%), where the large uncertainty in the QCD prediction is dominated by the QCD scale uncertainty.
+As the shape of QCD $ZZjj$ production is critical in the determination of EW $ZZjj$ signal contributions,
+an additional uncertainty affecting the MD shapes (`generator modelling uncertainty') is considered,
+estimated by comparing \textsc{Sherpa} with \MGMCatNLO~2.6.1 predictions at particle level, where two partons are explicitly required in the ME calculation.
+

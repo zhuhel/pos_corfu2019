@@ -1,0 +1,167 @@
+\begin{thebibliography}{10}
+
+\bibitem{HIGG-2012-27}
+{ATLAS Collaboration}, ``{Observation of a new particle in the search for the
+  Standard Model Higgs boson with the ATLAS detector at the LHC},'' {\em Phys.
+  Lett. B}, vol.~716, p.~1, 2012.
+
+\bibitem{CMS-HIG-12-028}
+{CMS Collaboration}, ``{Observation of a new boson at a mass of 125 GeV with
+  the CMS experiment at the LHC},'' {\em Phys. Lett. B}, vol.~716, p.~30, 2012.
+
+\bibitem{Lee:1977yc}
+B.~W. Lee, C.~Quigg, and H.~B. Thacker, ``{Strength of Weak Interactions at
+  Very High Energies and the Higgs Boson Mass},'' {\em Phys. Rev. Lett.},
+  vol.~38, pp.~883--885, 1977.
+
+\bibitem{Chanowitz:1985hj}
+M.~S. Chanowitz and M.~K. Gaillard, ``{The TeV physics of strongly interacting
+  W's and Z's},'' {\em Nucl. Phys. B}, vol.~261, pp.~379--431, 1985.
+
+\bibitem{Szleper:2014xxa}
+M.~Szleper, ``{The Higgs boson and the physics of $WW$ scattering before and
+  after Higgs discovery},'' 2014.
+
+\bibitem{ArkaniHamed:2002qy}
+N.~Arkani-Hamed, A.~G. Cohen, E.~Katz, and A.~E. Nelson, ``{The Littlest
+  Higgs},'' {\em JHEP}, vol.~07, p.~034, 2002.
+
+\bibitem{Aaboud:2019nmv}
+{ATLAS Collaboration}, ``{Observation of electroweak production of a same-sign
+  $W$ boson pair in association with two jets in $pp$ collisions at
+  $\sqrt{s}=13$ TeV with the ATLAS detector},'' {\em Submitted to Phys. Rev.
+  Lett.}, 2019.
+
+\bibitem{Aaboud:2018ddq}
+{ATLAS Collaboration}, ``{Observation of electroweak $W^{\pm}Z$ boson pair
+  production in association with two jets in $pp$ collisions at $\sqrt{s} =$ 13
+  TeV with the ATLAS detector},'' {\em Phys. Lett. B}, vol.~793, pp.~469--492,
+  2019.
+
+\bibitem{Sirunyan:2017ret}
+{CMS Collaboration}, ``{Observation of Electroweak Production of Same-Sign W
+  Boson Pairs in the Two Jet and Two Same-Sign Lepton Final State in
+  Proton-Proton Collisions at $\sqrt{s} = $ 13 TeV},'' {\em Phys. Rev. Lett.},
+  vol.~120, no.~8, p.~081801, 2018.
+
+\bibitem{Sirunyan:2017fvv}
+{CMS Collaboration}, ``{Measurement of vector boson scattering and constraints
+  on anomalous quartic couplings from events with four leptons and two jets in
+  proton–proton collisions at $\sqrt{s} = $ 13 TeV},'' {\em Phys. Lett. B},
+  vol.~774, pp.~682--705, 2017.
+
+\bibitem{PERF-2007-01}
+{ATLAS Collaboration}, ``{The ATLAS Experiment at the CERN Large Hadron
+  Collider},'' {\em JINST}, vol.~3, p.~S08003, 2008.
+
+\bibitem{ATLAS-TDR-2010-19}
+{ATLAS Collaboration}, ``{ATLAS Insertable B-Layer Technical Design Report}.''
+  ATLAS-TDR-19, 2010.
+
+\bibitem{Abbott:2018ikt}
+B.~Abbott {\em et~al.}, ``{Production and integration of the ATLAS Insertable
+  B-Layer},'' {\em JINST}, vol.~13, no.~05, p.~T05008, 2018.
+
+\bibitem{TRIG-2016-01}
+{ATLAS Collaboration}, ``{Performance of the ATLAS trigger system in 2015},''
+  {\em Eur. Phys. J. C}, vol.~77, p.~317, 2017.
+
+\bibitem{PERF-2015-10}
+{ATLAS Collaboration}, ``{Muon reconstruction performance of the ATLAS detector
+  in proton--proton collision data at \(\sqrt{s} = 13\,\text{TeV}\)},'' {\em
+  Eur. Phys. J. C}, vol.~76, p.~292, 2016.
+
+\bibitem{Aaboud:2019ynx}
+{ATLAS Collaboration}, ``{Electron reconstruction and identification in the
+  ATLAS experiment using the 2015 and 2016 LHC proton-proton collision data at
+  $\sqrt{s}$ = 13 TeV},'' {\em Submitted to Eur. Phys. J. C}, 2019.
+
+\bibitem{antikt_algorithm}
+M.~Cacciari, G.~P. Salam, and G.~Soyez, ``{The anti-$k_t$ jet clustering
+  algorithm},'' {\em JHEP}, vol.~04, p.~063, 2008.
+
+\bibitem{Fastjet}
+M.~Cacciari, G.~P. Salam, and G.~Soyez, ``{FastJet User Manual},'' {\em Eur.
+  Phys. J. C}, vol.~72, p.~1896, 2012.
+
+\bibitem{Aaboud:2017jcu}
+{ATLAS Collaboration}, ``{Jet energy scale measurements and their systematic
+  uncertainties in proton-proton collisions at $\sqrt{s} = 13$ TeV with the
+  ATLAS detector},'' {\em Phys. Rev. D}, vol.~96, no.~7, p.~072002, 2017.
+
+\bibitem{PERF-2014-03}
+{ATLAS Collaboration}, ``{Performance of pile-up mitigation techniques for jets
+  in \(pp\) collisions at \(\sqrt{s} = 8\,\text{TeV}\) using the ATLAS
+  detector},'' {\em Eur. Phys. J. C}, vol.~76, p.~581, 2016.
+
+\bibitem{bjets}
+{ATLAS Collaboration}, ``{Performance of $b$-jet identification in the ATLAS
+  experiment},'' {\em JINST}, vol.~11, no.~04, p.~P04008, 2016.
+
+\bibitem{Aad:2016eki}
+{ATLAS Collaboration}, ``{Search for pair production of gluinos decaying via
+  stop and sbottom in events with $b$-jets and large missing transverse
+  momentum in $pp$ collisions at $\sqrt{s} = 13$ TeV with the ATLAS
+  detector},'' {\em \PRD}, vol.~94, no.~3, p.~032003, 2016.
+
+\bibitem{ATL-PHYS-PUB-2015-027}
+{ATLAS Collaboration}, ``{Performance of missing transverse momentum
+  reconstruction with the ATLAS detector using proton–proton collisions at
+  $\sqrt{s}$ = 13 \TeV},'' {\em \EPJC}, vol.~78, p.~903, 2018.
+
+\bibitem{ATLAS-CONF-2018-038}
+{ATLAS Collaboration}, ``{Object-based missing transverse momentum significance
+  in the ATLAS detector}.'' {ATLAS-CONF-2018-038}, 2018.
+
+\bibitem{PhysRevD.92.094028}
+F.~Caola, K.~Melnikov, R.~R\"ontsch, and L.~Tancredi, ``Qcd corrections to $zz$
+  production in gluon fusion at the lhc,'' {\em Phys. Rev. D}, vol.~92,
+  p.~094028, 2015.
+
+\bibitem{Aaboud:2017rwm}
+{ATLAS Collaboration}, ``{$ZZ \to \ell^{+}\ell^{-}\ell^{\prime +}\ell^{\prime
+  -}$ cross-section measurements and search for anomalous triple gauge
+  couplings in 13 TeV $pp$ collisions with the ATLAS detector},'' {\em Phys.
+  Rev. D}, vol.~97, no.~3, p.~032005, 2018.
+
+\bibitem{Aaboud:2017bja}
+{ATLAS Collaboration}, ``{Search for an invisibly decaying Higgs boson or dark
+  matter candidates produced in association with a $Z$ boson in $pp$ collisions
+  at $\sqrt{s} =$ 13 TeV with the ATLAS detector},'' {\em Phys. Lett. B},
+  vol.~776, pp.~318--337, 2018.
+
+\bibitem{ATLAS-CONF-2019-021}
+{ATLAS Collaboration}, ``{Luminosity determination in $pp$ collisions at
+  $\sqrt{s}=13$ TeV using the ATLAS detector at the LHC}.''
+  {ATLAS-CONF-2019-021}, 2019.
+
+\bibitem{LUCID2}
+G.~Avoni {\em et~al.}, ``The new lucid-2 detector for luminosity measurement
+  and monitoring in atlas,'' {\em JINST}, vol.~13, no.~07, p.~P07017, 2018.
+
+\bibitem{Butterworth:2015oua}
+J.~Butterworth {\em et~al.}, ``{PDF4LHC recommendations for LHC Run II},'' {\em
+  J. Phys. G}, vol.~43, p.~023001, 2016.
+
+\bibitem{Bellm:2015jjp}
+J.~Bellm {\em et~al.}, ``{Herwig 7.0/Herwig++ 3.0 release note},'' {\em Eur.
+  Phys. J. C}, vol.~76, no.~4, p.~196, 2016.
+
+\bibitem{Bahr:2008pv}
+M.~Bahr {\em et~al.}, ``{Herwig++ Physics and Manual},'' {\em Eur. Phys. J. C},
+  vol.~58, pp.~639--707, 2008.
+
+\bibitem{friedman2001}
+J.~H. Friedman, ``Greedy function approximation: A gradient boosting
+  machine.,'' {\em Ann. Statist.}, vol.~29, pp.~1189--1232, 10 2001.
+
+\bibitem{Hocker:2007ht}
+A.~H{\"o}cker {\em et~al.}, ``{TMVA - Toolkit for Multivariate Data
+  Analysis},'' 2007.
+
+\bibitem{cowan:Asymptotic2013}
+G.~Cowan, K.~Cranmer, E.~Gross, and O.~Vitells, ``{Asymptotic formulae for
+  likelihood-based tests of new physics},'' {\em \EPJC}, vol.~71, p.~1554,
+  2011.
+
+\end{thebibliography}

@@ -1,0 +1,111 @@
+The QCD $ZZjj$ production is an irreducible background in the search for EW $ZZjj$ production.
+This process is estimated from simulation via a data-driven correction for its normalization in the \lllljj channel, and estimated purely from simulation in the \llvvjj channel.
+For the $ggZZjj$ process, an additional $K$-factor of 1.7~\cite{PhysRevD.92.094028} is applied to account for the NLO QCD correction.
+In the \lllljj channel, the normalization of the QCD $ZZjj$ processes is constrained by a dedicated control region (CR) defined in data by reverting either the \mjj or \dyjj requirements,
+and is then included as a floating parameter in the statistical fit to properly treat the uncertainty correlations between SR and CR.
+This CR cannot be defined in the \llvvjj channel, due to large contributions from reducible background.
+
+In the \lllljj channel, background contributions from \Zjet, top-quark and $WZ$ processes are estimated from data.
+These events may contain two or three isolated leptons from $Z$ or $W$ decays, together with heavy-flavour jets or misidentified components of jets yielding reconstructed leptons, i.e. `fake-leptons'.
+These `fake-lepton' backgrounds are estimated using a method similar to that described in Ref.~\cite{Aaboud:2017rwm},
+where the lepton misidentification is measured in data regions with enhanced contributions from \Zjet and top-quark processes.
+Small background contributions from triboson and $ttV$ production are estimated from simulation.
+Backgrounds from all these non-$ZZ$ processes collectively yield an estimated contribution of about 3\% to the selected data sample. These minor backgrounds are hereafter referred to as ``Others'' in the \lllljj channel.
+
+In the \llvvjj channel, the QCD $ZZjj$ processes constitute 26\% of the selected sample,
+and the remaining major backgrounds originate from $WZjj$ (29\%), $WWjj$ and \ttbar~production (27\%).
+The $WZjj$ background is estimated using a data CR defined by requiring three selected leptons and a looser event selection, following the methodology explained in Ref.~\cite{Aaboud:2017bja}.
+The simulation is found to overestimate the $WZjj$ contribution by 15\% in this CR in data,
+and therefore, the $WZjj$ yield in the SR is scaled by 0.85.
+The $WZjj$ estimate is found to have a relative uncertainty of 5\%, due to the data statistical uncertainty in the CR as well as the experimental and theoretical uncertainties.
+The $WZjj$ distribution of the MD is evaluated from simulation with the EW $WZjj$ normalisation scaled by 1.77, corresponding to the difference between data and simulation observed in a previous analysis, in a similar phase space~\cite{Aaboud:2018ddq},
+where the overall normalization factor is found to be consistent with the one derived in this note.
+The $WZjj$ shape uncertainty originates from experimental and theoretical uncertainties as well as from the uncertainty in the quoted EW $WZjj$ cross-section measurement.
+The \nonresll~background, including the $WWjj$ and \ttbar~processes, contain genuine \met~and a lepton pair not originating from a $Z$ or a $\gamma^{*}$-boson decay.
+This background is estimated using a CR selected in data by requiring the same selection as in the SR with the exception that an $e\mu$ pair is required, following the methodology explained in Ref.~\cite{Aaboud:2017bja}.
+The \nonresll~estimate has a relative uncertainty of 20\%, dominated by the data statistical uncertainty in the CR.
+The MD distribution for the \nonresll~process is estimated from simulation,
+with an uncertainty assigned to account for the difference between shapes in data and simulation.
+The \Zjet background is largely suppressed, and the yield is evaluated by extrapolating the low \met-significance region distribution in data to the high \met-significance region using an exponential function,
+while the MD distribution in the SR is modeled by simulation.
+A conservative uncertainty is assigned to account for variations in the fitting functions as well as differences between estimated and simulated yields and distributions.
+In addition, triboson and $ttV$ backgrounds are modelled with simulation. Similar to the \lllljj channel, these minor backgrounds are denoted as ``Others''.
+
+The observed and expected yields are listed in Table~\ref{tab:yield_prefit},
+where in total 127 (82) data events are selected in the \lllljj (\llvvjj) channel.
+No significant deviation from the SM prediction is observed.
+
+\begin{table}[!htbp]
+\sisetup{
+table-number-alignment = center,
+table-align-uncertainty=true
+}
+\begin{center}
+
+% \begin{tabular}{c|c|c}
+% \hline
+% Process                 & \lllljj          & \llvvjj           \\
+% \hline
+% EW $ZZjj$               &  $20.6 \pm  2.5$ & $12.3 \pm 0.7$  \\
+% QCD $ZZjj$              &  $77.4 \pm 25.0$ & $17.2 \pm 3.5$  \\
+% QCD $ggZZjj$            &  $13.1 \pm  4.4$ & $ 3.5 \pm 1.1$  \\
+% Non-resonant-$\ell\ell$ &  -               & $21.4 \pm 4.8$  \\
+% $WZ$                    &  -               & $22.8 \pm 1.1$  \\
+% Others                  &  $ 3.2 \pm  2.1$ & $ 1.2 \pm 0.9$  \\
+% \hline
+% Total                   & $114.3 \pm 25.6$ & $78.4 \pm 6.2$  \\
+% \hline
+% Data                    &  127             & 82              \\
+% \hline
+% \end{tabular}
+
+
+\begin{tabular}{
+c
+S[table-format = 3.1]@{$\,\pm\,$}
+S[table-format = 2.1]
+S[table-format = 2.2]@{$\,\pm\,$}
+S[table-format = 1.2]
+}
+%\hline
+%Process                 & \multicolumn{2}{c}{\lllljj}    & \multicolumn{2}{c}{\llvvjj}           \\
+%\hline
+%EW $ZZjj$               &  20.6 &  2.5 & 12.3 & 0.7  \\
+%QCD $ZZjj$              &  77.4 & 25.0 & 17.2 & 3.5  \\
+%QCD $ggZZjj$            &  13.1 &  4.4 & 3.5 & 1.1  \\
+%Non-resonant-$\ell\ell$ &  \multicolumn{2}{c}{-} & 21.4 & 4.8  \\
+%$WZ$                    &  \multicolumn{2}{c}{-} & 22.8 & 1.1  \\
+%Others                  &   3.2 &  2.1 & 1.2 & 0.9  \\
+%\hline
+%Total                   & 114.3 & 25.6 & 78.4 & 6.2  \\
+%\hline
+%Data                    &  \multicolumn{2}{l}{127}    & \multicolumn{2}{l}{82}  \\
+%\hline
+%\end{tabular}
+\hline
+Process                 & \multicolumn{2}{c}{\lllljj}    & \multicolumn{2}{c}{\llvvjj}           \\
+\hline
+EW $ZZjj$               &  20.6 &  2.5 & 12.30 & 0.65  \\
+QCD $ZZjj$              &  77   & 25   & 17.2  & 3.5  \\
+QCD $ggZZjj$            &  13.1 &  4.4 &  3.5  & 1.1  \\
+Non-resonant-$\ell\ell$ &  \multicolumn{2}{c}{-} & 21.4 & 4.8  \\
+$WZ$                    &  \multicolumn{2}{c}{-} & 22.8 & 1.1  \\
+Others                  &   3.2 &  2.1 & 1.15  & 0.89  \\
+\hline
+Total                   & 114   & 26   & 78.4 & 6.2  \\
+\hline
+Data                    &  \multicolumn{2}{l}{127}    & \multicolumn{2}{l}{82}  \\
+\hline
+\end{tabular}
+
+
+\end{center}
+\caption{
+Observed data and expected signal and background yields in 139~\ifb{} of data.
+Minor backgrounds are summed together as `Others'.
+Uncertainties on the predictions include both statistical and systematic components.
+}
+\label{tab:yield_prefit}
+\end{table}
+
+
