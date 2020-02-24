@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.9)  10 JAN 2020 11:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.9)  16 FEB 2020 04:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -518,6 +518,24 @@ Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
 \multirow@dima=\skip64
 \bigstrutjot=\dimen168
 )
+(/afs/cern.ch/sw/XML/TL2016/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count165
+\output=\toks25
+\linenoprevgraf=\count166
+\linenumbersep=\dimen169
+\linenumberwidth=\dimen170
+\c@linenumber=\count167
+\c@pagewiselinenumber=\count168
+\c@LN@truepage=\count169
+\c@internallinenumber=\count170
+\c@internallinenumbers=\count171
+\quotelinenumbersep=\dimen171
+\bframerule=\dimen172
+\bframesep=\dimen173
+\bframebox=\box60
+LaTeX Info: Redefining \\ on input line 3056.
+)
 (./skeleton-defs.sty) (./latex/atlasunit.sty) (./latex/atlasparticle.sty)
 (./latex/atlasjournal.sty
 (/afs/cern.ch/sw/XML/TL2016/texmf-dist/tex/latex/tools/xspace.sty
@@ -525,7 +543,7 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 ))
 (./latex/atlasmisc.sty
 \figwidth=\skip65
-\dkwidth=\dimen169
+\dkwidth=\dimen174
 ) (./latex/atlasphysics.sty
 Package: latex/atlasphysics 2019/05/21 v.07-04-00 ATLAS physics macros
 
@@ -552,7 +570,7 @@ Package etexcmds Info: Could not find \expanded.
 )))
 atlasphysics: APHY@texlive is [2016]
 (./latex/atlasxref.sty))
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 20.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 27.
 
 (/afs/cern.ch/sw/XML/TL2016/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
@@ -560,32 +578,32 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 (./skeleton.aux)
 \openout1 = `skeleton.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
 
 (/afs/cern.ch/sw/XML/TL2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count165
-\scratchdimen=\dimen170
-\scratchbox=\box60
-\nofMPsegments=\count166
-\nofMParguments=\count167
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count168
-\MPscratchDim=\dimen171
-\MPnumerator=\count169
-\makeMPintoPDFobject=\count170
-\everyMPtoPDFconversion=\toks26
+\scratchcounter=\count172
+\scratchdimen=\dimen175
+\scratchbox=\box61
+\nofMPsegments=\count173
+\nofMParguments=\count174
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count175
+\MPscratchDim=\dimen176
+\MPnumerator=\count176
+\makeMPintoPDFobject=\count177
+\everyMPtoPDFconversion=\toks27
 ) (/afs/cern.ch/sw/XML/TL2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -613,86 +631,86 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for T1+phv on input line 42.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 49.
 (/afs/cern.ch/sw/XML/TL2016/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 42.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 42
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 49.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 49
 .
 
 (/afs/cern.ch/sw/XML/TL2016/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 42
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 49
 .
 
 (/afs/cern.ch/sw/XML/TL2016/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 42
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 49
 .
 
 (/afs/cern.ch/sw/XML/TL2016/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 42
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 49
 .
 
 (/afs/cern.ch/sw/XML/TL2016/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 42.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 49.
 
 (/afs/cern.ch/sw/XML/TL2016/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 42.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 42.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 42.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 42.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 49.
 
 (/afs/cern.ch/sw/XML/TL2016/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
 
 <PoSlogo.pdf, id=2, 430.60875pt x 45.16875pt>
 File: PoSlogo.pdf Graphic file (type pdf)
  <use PoSlogo.pdf>
-Package pdftex.def Info: PoSlogo.pdf used on input line 42.
+Package pdftex.def Info: PoSlogo.pdf used on input line 49.
 (pdftex.def)             Requested size: 430.60768pt x 45.16862pt.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
  [0
 
 {/afs/cern.ch/sw/XML/TL2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Po
@@ -705,12 +723,12 @@ Dictionary: translator-basic-dictionary, Language: English
 cfg
 File: siunitx-abbreviations.cfg 2017/03/23 v2.7f siunitx: Abbreviated units
 )
-\c__siunitx_mathsf_int=\count171
-\c__siunitx_mathtt_int=\count172
+\c__siunitx_mathsf_int=\count178
+\c__siunitx_mathtt_int=\count179
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 45.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 53.
  (./section/intro.tex [1]
-<figures/diagram/diagram-EWZZjj-Schn-Higgs.pdf, id=55, 227.62239pt x 227.62239p
+<figures/diagram/diagram-EWZZjj-Schn-Higgs.pdf, id=56, 227.62239pt x 227.62239p
 t>
 File: figures/diagram/diagram-EWZZjj-Schn-Higgs.pdf Graphic file (type pdf)
  <use figures/diagram/diagram-EWZZjj-Schn-Higgs.pdf>
@@ -718,7 +736,7 @@ Package pdftex.def Info: figures/diagram/diagram-EWZZjj-Schn-Higgs.pdf used on
 input line 20.
 (pdftex.def)             Requested size: 94.64592pt x 94.6456pt.
 
-<figures/diagram/diagram-EWZZjj-Tchn-Higgs.pdf, id=56, 227.62239pt x 227.62239p
+<figures/diagram/diagram-EWZZjj-Tchn-Higgs.pdf, id=57, 227.62239pt x 227.62239p
 t>
 File: figures/diagram/diagram-EWZZjj-Tchn-Higgs.pdf Graphic file (type pdf)
  <use figures/diagram/diagram-EWZZjj-Tchn-Higgs.pdf>
@@ -726,7 +744,7 @@ Package pdftex.def Info: figures/diagram/diagram-EWZZjj-Tchn-Higgs.pdf used on
 input line 21.
 (pdftex.def)             Requested size: 94.64592pt x 94.6456pt.
 
-<figures/diagram/diagram-EWZZjj-QGC.pdf, id=57, 227.62239pt x 227.62239pt>
+<figures/diagram/diagram-EWZZjj-QGC.pdf, id=58, 227.62239pt x 227.62239pt>
 File: figures/diagram/diagram-EWZZjj-QGC.pdf Graphic file (type pdf)
 
 <use figures/diagram/diagram-EWZZjj-QGC.pdf>
@@ -734,7 +752,7 @@ Package pdftex.def Info: figures/diagram/diagram-EWZZjj-QGC.pdf used on input l
 ine 22.
 (pdftex.def)             Requested size: 94.64592pt x 94.6456pt.
 
-<figures/diagram/diagram-EWZZjj-TGC.pdf, id=58, 227.62239pt x 227.62239pt>
+<figures/diagram/diagram-EWZZjj-TGC.pdf, id=59, 227.62239pt x 227.62239pt>
 File: figures/diagram/diagram-EWZZjj-TGC.pdf Graphic file (type pdf)
 
 <use figures/diagram/diagram-EWZZjj-TGC.pdf>
@@ -742,7 +760,7 @@ Package pdftex.def Info: figures/diagram/diagram-EWZZjj-TGC.pdf used on input l
 ine 23.
 (pdftex.def)             Requested size: 94.64592pt x 94.6456pt.
 
-<figures/diagram/diagram-QCDZZjj-qq.pdf, id=59, 227.62239pt x 227.62239pt>
+<figures/diagram/diagram-QCDZZjj-qq.pdf, id=60, 227.62239pt x 227.62239pt>
 File: figures/diagram/diagram-QCDZZjj-qq.pdf Graphic file (type pdf)
 
 <use figures/diagram/diagram-QCDZZjj-qq.pdf>
@@ -750,7 +768,7 @@ Package pdftex.def Info: figures/diagram/diagram-QCDZZjj-qq.pdf used on input l
 ine 24.
 (pdftex.def)             Requested size: 94.64592pt x 94.6456pt.
 
-<figures/diagram/diagram-QCDZZjj-qg.pdf, id=60, 227.62239pt x 227.62239pt>
+<figures/diagram/diagram-QCDZZjj-qg.pdf, id=61, 227.62239pt x 227.62239pt>
 File: figures/diagram/diagram-QCDZZjj-qg.pdf Graphic file (type pdf)
 
 <use figures/diagram/diagram-QCDZZjj-qg.pdf>
@@ -758,7 +776,7 @@ Package pdftex.def Info: figures/diagram/diagram-QCDZZjj-qg.pdf used on input l
 ine 25.
 (pdftex.def)             Requested size: 94.64592pt x 94.6456pt.
 
-<figures/diagram/diagram-QCDZZjj-gg.pdf, id=61, 227.62239pt x 227.62239pt>
+<figures/diagram/diagram-QCDZZjj-gg.pdf, id=62, 227.62239pt x 227.62239pt>
 File: figures/diagram/diagram-QCDZZjj-gg.pdf Graphic file (type pdf)
 
 <use figures/diagram/diagram-QCDZZjj-gg.pdf>
@@ -766,7 +784,7 @@ Package pdftex.def Info: figures/diagram/diagram-QCDZZjj-gg.pdf used on input l
 ine 26.
 (pdftex.def)             Requested size: 94.64592pt x 94.6456pt.
 
-<figures/diagram/diagram-QCDZZjj-box.pdf, id=62, 227.62239pt x 227.62239pt>
+<figures/diagram/diagram-QCDZZjj-box.pdf, id=63, 227.62239pt x 227.62239pt>
 File: figures/diagram/diagram-QCDZZjj-box.pdf Graphic file (type pdf)
 
 <use figures/diagram/diagram-QCDZZjj-box.pdf>
@@ -793,32 +811,46 @@ Overfull \hbox (26.58495pt too wide) in paragraph at lines 25--26
  []
 
 ) (./section/electroweak.tex [8]
-<figures/4l/MJJ_4l_QCD_CR.pdf, id=234, 569.12625pt x 642.4pt>
-File: figures/4l/MJJ_4l_QCD_CR.pdf Graphic file (type pdf)
 
-<use figures/4l/MJJ_4l_QCD_CR.pdf>
-Package pdftex.def Info: figures/4l/MJJ_4l_QCD_CR.pdf used on input line 62.
+pdfTeX warning: pdflatex (file ./figures/4l/MJJ_4l_QCD_CR_v1.pdf): PDF inclusio
+n: found PDF version <1.6>, but at most version <1.5> allowed
+<figures/4l/MJJ_4l_QCD_CR_v1.pdf, id=234, 569.12625pt x 642.4pt>
+File: figures/4l/MJJ_4l_QCD_CR_v1.pdf Graphic file (type pdf)
+
+<use figures/4l/MJJ_4l_QCD_CR_v1.pdf>
+Package pdftex.def Info: figures/4l/MJJ_4l_QCD_CR_v1.pdf used on input line 62.
+
 (pdftex.def)             Requested size: 139.81575pt x 157.81577pt.
 
-<figures/4l/MJJ_4l_SR.pdf, id=235, 569.12625pt x 642.4pt>
-File: figures/4l/MJJ_4l_SR.pdf Graphic file (type pdf)
 
-<use figures/4l/MJJ_4l_SR.pdf>
-Package pdftex.def Info: figures/4l/MJJ_4l_SR.pdf used on input line 63.
+pdfTeX warning: pdflatex (file ./figures/4l/MJJ_4l_SR_v1.pdf): PDF inclusion: f
+ound PDF version <1.6>, but at most version <1.5> allowed
+<figures/4l/MJJ_4l_SR_v1.pdf, id=235, 569.12625pt x 642.4pt>
+File: figures/4l/MJJ_4l_SR_v1.pdf Graphic file (type pdf)
+
+<use figures/4l/MJJ_4l_SR_v1.pdf>
+Package pdftex.def Info: figures/4l/MJJ_4l_SR_v1.pdf used on input line 63.
 (pdftex.def)             Requested size: 139.81575pt x 157.81577pt.
 
-<figures/llvv/MJJ_2l2v_SR.pdf, id=236, 569.12625pt x 642.4pt>
-File: figures/llvv/MJJ_2l2v_SR.pdf Graphic file (type pdf)
 
-<use figures/llvv/MJJ_2l2v_SR.pdf>
-Package pdftex.def Info: figures/llvv/MJJ_2l2v_SR.pdf used on input line 64.
+pdfTeX warning: pdflatex (file ./figures/llvv/MJJ_2l2v_SR_v1.pdf): PDF inclusio
+n: found PDF version <1.6>, but at most version <1.5> allowed
+<figures/llvv/MJJ_2l2v_SR_v1.pdf, id=236, 569.12625pt x 642.4pt>
+File: figures/llvv/MJJ_2l2v_SR_v1.pdf Graphic file (type pdf)
+
+<use figures/llvv/MJJ_2l2v_SR_v1.pdf>
+Package pdftex.def Info: figures/llvv/MJJ_2l2v_SR_v1.pdf used on input line 64.
+
 (pdftex.def)             Requested size: 139.81575pt x 157.81577pt.
 
-<figures/4l/MZZ_4l_SR.pdf, id=237, 569.12625pt x 642.4pt>
-File: figures/4l/MZZ_4l_SR.pdf Graphic file (type pdf)
 
-<use figures/4l/MZZ_4l_SR.pdf>
-Package pdftex.def Info: figures/4l/MZZ_4l_SR.pdf used on input line 79.
+pdfTeX warning: pdflatex (file ./figures/4l/MZZ_4l_SR_v1.pdf): PDF inclusion: f
+ound PDF version <1.6>, but at most version <1.5> allowed
+<figures/4l/MZZ_4l_SR_v1.pdf, id=237, 569.12625pt x 642.4pt>
+File: figures/4l/MZZ_4l_SR_v1.pdf Graphic file (type pdf)
+
+<use figures/4l/MZZ_4l_SR_v1.pdf>
+Package pdftex.def Info: figures/4l/MZZ_4l_SR_v1.pdf used on input line 79.
 (pdftex.def)             Requested size: 172.07993pt x 194.23103pt.
 
 <figures/llvv/BDT_2l2v_3lCR.pdf, id=238, 569.12625pt x 546.04pt>
@@ -828,69 +860,75 @@ File: figures/llvv/BDT_2l2v_3lCR.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/llvv/BDT_2l2v_3lCR.pdf used on input line 93.
 (pdftex.def)             Requested size: 172.07993pt x 165.09637pt.
 
-<figures/4l/BDT_4l_QCD_CR_postFit.pdf, id=239, 569.12625pt x 642.4pt>
-File: figures/4l/BDT_4l_QCD_CR_postFit.pdf Graphic file (type pdf)
 
-<use figures/4l/BDT_4l_QCD_CR_postFit.pdf>
-Package pdftex.def Info: figures/4l/BDT_4l_QCD_CR_postFit.pdf used on input lin
-e 108.
+pdfTeX warning: pdflatex (file ./figures/4l/BDT_4l_QCD_CR_postFit_v1.pdf): PDF 
+inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<figures/4l/BDT_4l_QCD_CR_postFit_v1.pdf, id=239, 569.12625pt x 642.4pt>
+File: figures/4l/BDT_4l_QCD_CR_postFit_v1.pdf Graphic file (type pdf)
+
+<use figures/4l/BDT_4l_QCD_CR_postFit_v1.pdf>
+Package pdftex.def Info: figures/4l/BDT_4l_QCD_CR_postFit_v1.pdf used on input 
+line 108.
 (pdftex.def)             Requested size: 139.81575pt x 157.81577pt.
 
-<figures/4l/BDT_4l_SR_postFit.pdf, id=240, 569.12625pt x 642.4pt>
-File: figures/4l/BDT_4l_SR_postFit.pdf Graphic file (type pdf)
 
-<use figures/4l/BDT_4l_SR_postFit.pdf>
-Package pdftex.def Info: figures/4l/BDT_4l_SR_postFit.pdf used on input line 10
-9.
+pdfTeX warning: pdflatex (file ./figures/4l/BDT_4l_SR_postFit_v1.pdf): PDF incl
+usion: found PDF version <1.6>, but at most version <1.5> allowed
+<figures/4l/BDT_4l_SR_postFit_v1.pdf, id=240, 569.12625pt x 642.4pt>
+File: figures/4l/BDT_4l_SR_postFit_v1.pdf Graphic file (type pdf)
+
+<use figures/4l/BDT_4l_SR_postFit_v1.pdf>
+Package pdftex.def Info: figures/4l/BDT_4l_SR_postFit_v1.pdf used on input line
+ 109.
 (pdftex.def)             Requested size: 139.81575pt x 157.81577pt.
 
-<figures/llvv/BDT_2l2v_SR_postFit.pdf, id=241, 569.12625pt x 642.4pt>
-File: figures/llvv/BDT_2l2v_SR_postFit.pdf Graphic file (type pdf)
 
-<use figures/llvv/BDT_2l2v_SR_postFit.pdf>
-Package pdftex.def Info: figures/llvv/BDT_2l2v_SR_postFit.pdf used on input lin
-e 110.
+pdfTeX warning: pdflatex (file ./figures/llvv/BDT_2l2v_SR_postFit_v1.pdf): PDF 
+inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<figures/llvv/BDT_2l2v_SR_postFit_v1.pdf, id=241, 569.12625pt x 642.4pt>
+File: figures/llvv/BDT_2l2v_SR_postFit_v1.pdf Graphic file (type pdf)
+
+<use figures/llvv/BDT_2l2v_SR_postFit_v1.pdf>
+Package pdftex.def Info: figures/llvv/BDT_2l2v_SR_postFit_v1.pdf used on input 
+line 110.
 (pdftex.def)             Requested size: 139.81575pt x 157.81577pt.
-) (./section/conclusion.tex) [9]
-[10 <./figures/4l/MJJ_4l_QCD_CR.pdf> <./figures/4l/MJJ_4l_SR.pdf> <./figures/ll
-vv/MJJ_2l2v_SR.pdf> <./figures/4l/MZZ_4l_SR.pdf>] [11 <./figures/llvv/BDT_2l2v_
-3lCR.pdf> <./figures/4l/BDT_4l_QCD_CR_postFit.pdf> <./figures/4l/BDT_4l_SR_post
-Fit.pdf> <./figures/llvv/BDT_2l2v_SR_postFit.pdf>] (./skeleton.bbl [12]
-[13]) [14] (./skeleton.aux) ) 
+) (./section/conclusion.tex)
+[9] [10 <./figures/4l/MJJ_4l_QCD_CR_v1.pdf> <./figures/4l/MJJ_4l_SR_v1.pdf> <./
+figures/llvv/MJJ_2l2v_SR_v1.pdf> <./figures/4l/MZZ_4l_SR_v1.pdf>] [11 <./figure
+s/llvv/BDT_2l2v_3lCR.pdf> <./figures/4l/BDT_4l_QCD_CR_postFit_v1.pdf> <./figure
+s/4l/BDT_4l_SR_postFit_v1.pdf> <./figures/llvv/BDT_2l2v_SR_postFit_v1.pdf>]
+(./skeleton.bbl [12] [13]) [14] (./skeleton.aux) ) 
 Here is how much of TeX's memory you used:
- 13795 strings out of 493013
- 269474 string characters out of 6131952
- 290657 words of memory out of 5000000
- 16982 multiletter control sequences out of 15000+600000
- 117246 words of font info for 215 fonts, out of 8000000 for 9000
+ 14000 strings out of 493013
+ 272673 string characters out of 6131952
+ 293914 words of memory out of 5000000
+ 17182 multiletter control sequences out of 15000+600000
+ 120136 words of font info for 217 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,16n,36p,10380b,744s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/afs/cern.ch/sw/XML/TL2016/texmf-dist/fonts/enc/d
-vips/base/8r.enc}</afs/cern.ch/sw/XML/TL2016/texmf-dist/fonts/type1/public/stix
-/STIXGeneral-Italic.pfb
-
-pdfTeX warning: pdflatex (file /afs/cern.ch/sw/XML/TL2016/texmf-dist/fonts/type
-1/public/stix/STIXGeneral-Italic.pfb): glyph `afii61289' undefined
-></afs/cern.ch/sw/XML/TL2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.p
-fb></afs/cern.ch/sw/XML/TL2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10
-.pfb></afs/cern.ch/sw/XML/TL2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
-12.pfb></afs/cern.ch/sw/XML/TL2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r10.pfb></afs/cern.ch/sw/XML/TL2016/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr17.pfb></afs/cern.ch/sw/XML/TL2016/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmsy10.pfb></afs/cern.ch/sw/XML/TL2016/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy6.pfb></afs/cern.ch/sw/XML/TL2016/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmsy7.pfb></afs/cern.ch/sw/XML/TL2016/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmsy8.pfb></afs/cern.ch/sw/XML/TL2016/texmf-dist/fonts/type1/urw/courier/uc
-rr8a.pfb></afs/cern.ch/sw/XML/TL2016/texmf-dist/fonts/type1/urw/helvetic/uhvb8a
-.pfb></afs/cern.ch/sw/XML/TL2016/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></a
-fs/cern.ch/sw/XML/TL2016/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></afs/cern.
-ch/sw/XML/TL2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></afs/cern.ch/sw/X
-ML/TL2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></afs/cern.ch/sw/XML/TL20
-16/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on skeleton.pdf (15 pages, 432580 bytes).
+{/afs/cern.ch/sw/XML/TL2016/t
+exmf-dist/fonts/enc/dvips/base/8r.enc}</afs/cern.ch/sw/XML/TL2016/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmex10.pfb></afs/cern.ch/sw/XML/TL2016/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi10.pfb></afs/cern.ch/sw/XML/TL2016/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi12.pfb></afs/cern.ch/sw/XML/TL2016/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr10.pfb></afs/cern.ch/sw/XML/TL2016/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></afs/cern.ch/sw/XML/TL2016/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></afs/cern.ch/sw/XML/TL2016/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></afs/cern.ch/sw/XML/TL2016/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></afs/cern.ch/sw/XML/TL2016/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></afs/cern.ch/sw/XML/TL2016/
+texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></afs/cern.ch/sw/XML/TL2016/texmf
+-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></afs/cern.ch/sw/XML/TL2016/texmf-dis
+t/fonts/type1/urw/helvetic/uhvr8a.pfb></afs/cern.ch/sw/XML/TL2016/texmf-dist/fo
+nts/type1/urw/symbol/usyr.pfb></afs/cern.ch/sw/XML/TL2016/texmf-dist/fonts/type
+1/urw/symbol/usyr.pfb></afs/cern.ch/sw/XML/TL2016/texmf-dist/fonts/type1/urw/ti
+mes/utmb8a.pfb></afs/cern.ch/sw/XML/TL2016/texmf-dist/fonts/type1/urw/times/utm
+r8a.pfb></afs/cern.ch/sw/XML/TL2016/texmf-dist/fonts/type1/urw/times/utmri8a.pf
+b>
+Output written on skeleton.pdf (15 pages, 496626 bytes).
 PDF statistics:
- 472 PDF objects out of 1000 (max. 8388607)
- 381 compressed objects within 4 object streams
+ 557 PDF objects out of 1000 (max. 8388607)
+ 433 compressed objects within 5 object streams
  84 named destinations out of 1000 (max. 500000)
  86 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -20,7 +20,7 @@ The electron identification imposes requirements on the number of hits in the ID
 built from variables related to EM calorimeter shower shapes, track-cluster matching, track quality, and transition radiation.
 Electrons must satisfy the `loose' (`medium') identification criterion~\cite{Aaboud:2019ynx} in the \lllljj (\llvvjj) channel, and have \pT{} $>$ 7~\GeV{} and $|\eta| < 2.47$.
 
-All electrons and muons are required to be isolated by requiring small activity in regions of the ID and calorimeters that surround them,
+All electrons and muons are required to be isolated by requiring low activity in regions of the ID and calorimeters that surround them,
 and the `FixedCutLoose' and `loose' isolation criteria~\cite{PERF-2015-10,Aaboud:2019ynx} are imposed in the \lllljj and \llvvjj channels, respectively. Furthermore, leptons are required to have associated tracks satisfying $|d_0/\sigma_{d_0}|<5~(3)$ and $|z_0\times\sin\theta|<0.5$ mm for electrons~(muons), where $d_0$ is the transverse impact parameter relative to the beam line, $\sigma_{d_0}$ is its uncertainty, and $z_0$ is the longitudinal impact parameter relative to the primary vertex.
 
 Jets are clustered using the anti-$k_t$ algorithm~\cite{antikt_algorithm,Fastjet} with radius parameter $R = 0.4$. The jet energy scale is calibrated using simulation and further corrected with in-situ methods~\cite{Aaboud:2017jcu}. 
@@ -37,7 +37,7 @@ If multiple quadruplets are found, the one that minimises the sum of the differe
 $|m_{\ell^+\ell^-} - m_Z| + |m_{\ell^{'+}\ell^{'-}} - m_Z|$, is selected.
 The dilepton masses are required to be within 66--116~\GeV{}.
 In the \lllljj channel with four electrons ($4e$) or four muons ($4\mu$), all the $\ell^+\ell^-$ pairs are required to have $m_{\ell^+\ell^-} > 10$~\GeV{},
-to reject events from low mass resonances. 
+to reject events with low mass resonances. 
 
 In the \llvvjj channel candidate events  are required to have one OSSF lepton pair with $m_{\ell^+\ell^-}$ in the range from 80 to 100~\GeV{},
 and the leading (sub-leading) lepton must have \pt{} $>$ 30 (20)~\GeV{}.
@@ -47,7 +47,7 @@ Events should satisfy the requirement of \met-significance greater than 12 to su
 In both channels, the two most energetic jets satisfying $y_{j_1} \times y_{j_2} < 0$ are selected.
 In the \lllljj channel the jets are required to have \pT $>$ 30~(40)~\GeV{} in the $|\eta| < 2.4 (2.4 < |\eta| < 4.5)$ region,
 while in the \llvvjj channel the selected jets are required to have \pT $>$ 60 (40)~\GeV{} for the leading (sub-leading) one.
-Finally, to further suppress background contributions, \mjj is required to be greater than 300 (400)~\GeV{} in the \lllljj (\llvvjj) channel, and \dyjj is required to be greater than two.
+Finally, to further suppress background contributions, \mjj is required to be greater than 300 (400)~\GeV{} in the \lllljj (\llvvjj) channel, and \dyjj is required to be greater than 2.
 The harsher jet requirement in the \llvvjj channel is optimised to suppress the more significant contamination from reducible backgrounds. 
 
 The analysis signal regions (SRs), defined with the above selection requirements, are summarized in Table~\ref{tab:selection_reco}.

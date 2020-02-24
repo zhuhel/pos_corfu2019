@@ -5,6 +5,12 @@
 \usepackage{amsmath}
 \usepackage{siunitx}
 \usepackage{multirow}
+\usepackage{lineno}
+\usepackage{graphicx}
+%\usepackage[utf8]{inputenc}
+%\usepackage[no-math]{fontspec}
+%\setmainfont{STIX}
+%\usepackage{stix}
 
 \usepackage{skeleton-defs}
 \usepackage{latex/atlasunit}
@@ -12,12 +18,13 @@
 \usepackage{latex/atlasjournal}
 \usepackage{latex/atlasmisc}
 \usepackage{latex/atlasphysics}
+%\usepackage{latex/atlaspackage}
 
 \title{Messurement of inclusive cross section and observation of electroweak production of two jets in association with a $Z$-boson pair
 in $pp$ collisions at $\sqrt{s} = 13$~\TeV~with the ATLAS detector
 }
 
-\ShortTitle{Short Title for header}
+\ShortTitle{SM ZZjj analysis}
 
 \author{\speaker{Heling Zhu, on behalf of the ATLAS Collaboration}\\
         University of Science and Technology of China, Brookhaven National Lab\\
@@ -40,6 +47,7 @@ in $pp$ collisions at $\sqrt{s} = 13$~\TeV~with the ATLAS detector
 		Corfù, Greece}
 
 \begin{document}
+\linenumbers
 
 %-------------------------------------------------------------------------------
 \section{Introduction}
@@ -52,9 +60,9 @@ in $pp$ collisions at $\sqrt{s} = 13$~\TeV~with the ATLAS detector
 \input{section/detector.tex}
 
 %-------------------------------------------------------------------------------
-%\section{Data and simulation}
-%\label{sec:datamc}
-%\input{section/datamc.tex}
+\section{Data and simulation}
+\label{sec:datamc}
+\input{section/datamc.tex}
 
 %-------------------------------------------------------------------------------
 \section{Event selection}
