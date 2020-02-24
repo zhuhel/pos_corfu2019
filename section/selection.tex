@@ -1,13 +1,6 @@
-The data sets for this analysis were recorded using single and multi-lepton triggers.
-The transverse momentum (\pT) thresholds of these triggers vary from 8 to 26~\GeV{},
-depending on the lepton flavour and data-taking periods.
-The overall trigger efficiency for selected inclusive $ZZjj$ signal events in the analysis region ranges from 95 to 99\%{}.
-After removing the short data-taking periods with problems affecting the lepton reconstruction,
-the total integrated luminosity used in the analysis is 139 \ifb.
-
 The selection of the \lllljj and \llvvjj events relies on multiple physics objects, including electrons, muons, jets, and \met.
 Events are first required to have a collision vertex associated with at least two tracks each with $\pt>0.4$ \GeV.
-The vertex with the highest scalar sum of \pt{} of the associated tracks is referred to as the primary vertex.
+The vertex with the highest sum of \pt{}$^{2}$ of the associated tracks is referred to as the primary vertex.
 
 Muons are identified by tracks reconstructed in the MS and are matched to tracks reconstructed in the ID. In the region $2.5<|\eta|<2.7$, muons can also be identified by an MS track alone (denoted as stand-alone muons).
 The identified muons described above are required to have \pT{} $>$ 7~\GeV{}.
@@ -24,7 +17,8 @@ All electrons and muons are required to be isolated by requiring low activity in
 and the `FixedCutLoose' and `loose' isolation criteria~\cite{PERF-2015-10,Aaboud:2019ynx} are imposed in the \lllljj and \llvvjj channels, respectively. Furthermore, leptons are required to have associated tracks satisfying $|d_0/\sigma_{d_0}|<5~(3)$ and $|z_0\times\sin\theta|<0.5$ mm for electrons~(muons), where $d_0$ is the transverse impact parameter relative to the beam line, $\sigma_{d_0}$ is its uncertainty, and $z_0$ is the longitudinal impact parameter relative to the primary vertex.
 
 Jets are clustered using the anti-$k_t$ algorithm~\cite{antikt_algorithm,Fastjet} with radius parameter $R = 0.4$. The jet energy scale is calibrated using simulation and further corrected with in-situ methods~\cite{Aaboud:2017jcu}. 
-A jet-vertex tagger~\cite{PERF-2014-03} is applied to jets with $\pT<60$~\GeV\ and $|\eta|<2.4$ to preferentially select jets from the hard interaction. In addition, jets containing $b$-hadrons ($b$-jets) are identified using a multivariate algorithm ($b$-tagging)~\cite{bjets}. The chosen $b$-tagging algorithm has an efficiency of 85\%{} for $b$-jets and a rejection factor of 33 against light-flavour jets.
+A jet-vertex tagger~\cite{PERF-2014-03} is applied to jets with $\pT<60$~\GeV\ and $|\eta|<2.4$ to preferentially select jets from the hard interaction. In addition, jets containing $b$-hadrons ($b$-jets) are identified using a multivariate algorithm ($b$-tagging)~\cite{bjets}.
+A cut on the b-tagging multivariate discriminant corresponding to an efficiency of 85\% on simulated b-jets is chosen. The expected background rejection factor is about 33.
 
 An overlap-removal procedure detailed in Ref.~\cite{Aad:2016eki} is applied to the selected leptons and jets in the \llvvjj channel,
 to avoid ambiguities in the event selection and in the energy measurement of the physics objects.
@@ -33,7 +27,7 @@ The $\vec{E}_{\mathrm{T}}^{\mathrm{miss}}$ vector is computed as the negative of
 
 In the \lllljj channel, quadruplets of leptons are formed by selecting two opposite-sign, same-flavour (OSSF) lepton pairs ($\ell^+\ell^-$), where the leptons are required to be separated from each other by $\Delta R >0.2$.
 At most one muon is allowed to be a stand-alone or calorimeter-tagged muon, and the three leading leptons must have \pt{} $>$ 20, 20 and 10~\GeV{}, respectively.
-If multiple quadruplets are found, the one that minimises the sum of the differences between the dilepton masses and the nominal $Z$ boson mass,
+If multiple quadruplets are found, the one that minimises the sum of the differences between the dilepton masses and the PDG $Z$ boson mass,
 $|m_{\ell^+\ell^-} - m_Z| + |m_{\ell^{'+}\ell^{'-}} - m_Z|$, is selected.
 The dilepton masses are required to be within 66--116~\GeV{}.
 In the \lllljj channel with four electrons ($4e$) or four muons ($4\mu$), all the $\ell^+\ell^-$ pairs are required to have $m_{\ell^+\ell^-} > 10$~\GeV{},

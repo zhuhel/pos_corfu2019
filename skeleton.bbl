@@ -22,26 +22,28 @@ M.~S. Chanowitz and M.~K. Gaillard, ``{The TeV physics of strongly interacting
 M.~Szleper, ``{The Higgs boson and the physics of $WW$ scattering before and
   after Higgs discovery},'' 2014.
 
-\bibitem{ArkaniHamed:2002qy}
-N.~Arkani-Hamed, A.~G. Cohen, E.~Katz, and A.~E. Nelson, ``{The Littlest
-  Higgs},'' {\em JHEP}, vol.~07, p.~034, 2002.
+\bibitem{PhysRevLett.113.141803}
+``Evidence for electroweak production of
+  ${W}^{\ifmmode\pm\else\textpm\fi{}}{W}^{\ifmmode\pm\else\textpm\fi{}}jj$ in
+  $pp$ collisions at $\sqrt{s}=8\text{ }\text{ }\mathrm{TeV}$ with the atlas
+  detector,'' {\em Phys. Rev. Lett.}, vol.~113, p.~141803, Oct 2014.
 
 \bibitem{Aaboud:2019nmv}
 {ATLAS Collaboration}, ``{Observation of electroweak production of a same-sign
   $W$ boson pair in association with two jets in $pp$ collisions at
   $\sqrt{s}=13$ TeV with the ATLAS detector},'' {\em Phys. Rev. Lett.}, 2019.
 
-\bibitem{Aaboud:2018ddq}
-{ATLAS Collaboration}, ``{Observation of electroweak $W^{\pm}Z$ boson pair
-  production in association with two jets in $pp$ collisions at $\sqrt{s} =$ 13
-  TeV with the ATLAS detector},'' {\em Phys. Lett. B}, vol.~793, pp.~469--492,
-  2019.
-
 \bibitem{Sirunyan:2017ret}
 {CMS Collaboration}, ``{Observation of Electroweak Production of Same-Sign W
   Boson Pairs in the Two Jet and Two Same-Sign Lepton Final State in
   Proton-Proton Collisions at $\sqrt{s} = $ 13 TeV},'' {\em Phys. Rev. Lett.},
   vol.~120, no.~8, p.~081801, 2018.
+
+\bibitem{Aaboud:2018ddq}
+{ATLAS Collaboration}, ``{Observation of electroweak $W^{\pm}Z$ boson pair
+  production in association with two jets in $pp$ collisions at $\sqrt{s} =$ 13
+  TeV with the ATLAS detector},'' {\em Phys. Lett. B}, vol.~793, pp.~469--492,
+  2019.
 
 \bibitem{Sirunyan:2017fvv}
 {CMS Collaboration}, ``{Measurement of vector boson scattering and constraints
@@ -64,6 +66,75 @@ B.~Abbott {\em et~al.}, ``{Production and integration of the ATLAS Insertable
 \bibitem{TRIG-2016-01}
 {ATLAS Collaboration}, ``{Performance of the ATLAS trigger system in 2015},''
   {\em Eur. Phys. J. C}, vol.~77, p.~317, 2017.
+
+\bibitem{Alwall:2014hca}
+J.~Alwall, R.~Frederix, S.~Frixione, V.~Hirschi, F.~Maltoni, O.~Mattelaer,
+  H.~S. Shao, T.~Stelzer, P.~Torrielli, and M.~Zaro, ``{The automated
+  computation of tree-level and next-to-leading order differential cross
+  sections, and their matching to parton shower simulations},'' {\em JHEP},
+  vol.~07, p.~079, 2014.
+
+\bibitem{Ball:2012cx}
+R.~D. Ball {\em et~al.}, ``{Parton distributions with LHC data},'' {\em Nucl.
+  Phys. B}, vol.~867, pp.~244--289, 2013.
+
+\bibitem{Gleisberg:2008ta}
+T.~Gleisberg, S.~H{\"o}che, F.~Krauss, M.~Sch{\"o}nherr, S.~Schumann, {\em
+  et~al.}, ``{Event generation with SHERPA 1.1},'' {\em JHEP}, vol.~02, p.~007,
+  2009.
+
+\bibitem{ball2015parton}
+R.~D. Ball {\em et~al.}, ``{Parton distributions for the LHC run II},'' {\em
+  JHEP}, vol.~04, p.~040, 2015.
+
+\bibitem{Kauer:2013qba}
+N.~Kauer, ``{Interference effects for H $\to$ WW/ZZ $\to
+  \ell\bar{\nu}_\ell\bar{\ell}\nu_\ell$ searches in gluon fusion at the LHC},''
+  {\em JHEP}, vol.~12, p.~082, 2013.
+
+\bibitem{Gao:2013xoa}
+J.~Gao, M.~Guzzi, J.~Huston, H.-L. Lai, Z.~Li, P.~Nadolsky, J.~Pumplin,
+  D.~Stump, and C.~P. Yuan, ``{CT10 next-to-next-to-leading order global
+  analysis of QCD},'' {\em Phys. Rev. D}, vol.~89, no.~3, p.~033009, 2014.
+
+\bibitem{Frixione:2007nw}
+S.~Frixione, G.~Ridolfi, and P.~Nason, ``{A positive-weight
+  next-to-leading-order Monte Carlo for heavy flavour hadroproduction},'' {\em
+  JHEP}, vol.~09, p.~126, 2007.
+
+\bibitem{Lai:2010vv}
+H.-L. Lai {\em et~al.}, ``{New parton distributions for collider physics},''
+  {\em Phys. Rev. D}, vol.~82, p.~074024, 2010.
+
+\bibitem{Alioli:2009je}
+S.~Alioli, P.~Nason, C.~Oleari, and E.~Re, ``{NLO single-top production matched
+  with shower in POWHEG: s- and t-channel contributions},'' {\em JHEP},
+  vol.~09, p.~111, 2009.
+
+\bibitem{Frederix:2012dh}
+R.~Frederix, E.~Re, and P.~Torrielli, ``{Single-top t-channel hadroproduction
+  in the four-flavour scheme with POWHEG and aMC@NLO},'' {\em JHEP}, vol.~09,
+  p.~130, 2012.
+
+\bibitem{Re:2010bp}
+E.~Re, ``{Single-top Wt-channel production matched with parton showers using
+  the POWHEG method},'' {\em Eur. Phys. J. C}, vol.~71, p.~1547, 2011.
+
+\bibitem{Sjostrand:2007gs}
+T.~{Sj\"ostrand}, S.~Mrenna, and P.~Z. Skands, ``{A brief introduction to
+  PYTHIA 8.1},'' {\em Comput. Phys. Commun.}, vol.~178, p.~852, 2008.
+
+\bibitem{ATL-PHYS-PUB-2014-021}
+{ATLAS Collaboration}, ``{ATLAS Pythia~8 tunes to $7\;\mbox{TeV}$ data}.''
+  {ATL-PHYS-PUB-2014-021}, 2014.
+
+\bibitem{SOFT-2010-01}
+{ATLAS Collaboration}, ``{The ATLAS Simulation Infrastructure},'' {\em Eur.
+  Phys. J. C}, vol.~70, p.~823, 2010.
+
+\bibitem{Agostinelli:2002hh}
+S.~Agostinelli {\em et~al.}, ``{\textsc{Geant4}---a simulation toolkit},'' {\em
+  Nucl. Instrum. Meth. A}, vol.~506, p.~250, 2003.
 
 \bibitem{PERF-2015-10}
 {ATLAS Collaboration}, ``{Muon reconstruction performance of the ATLAS detector
