@@ -4,34 +4,33 @@ The top-level auxiliary file: skeleton.aux
 The style file: ieeetr.bst
 Database file #1: bib/reference.bib
 Warning--empty journal in Szleper:2014xxa
-Warning--empty author in PhysRevLett.113.141803
 Warning--empty journal in Hocker:2007ht
 You've used 50 entries,
             1876 wiz_defined-function locations,
-            765 strings with 11192 characters,
-and the built_in function-call counts, 12192 in all, are:
-= -- 1254
-> -- 382
+            765 strings with 11359 characters,
+and the built_in function-call counts, 12207 in all, are:
+= -- 1255
+> -- 385
 < -- 0
-+ -- 153
-- -- 103
-* -- 704
-:= -- 1667
++ -- 154
+- -- 104
+* -- 702
+:= -- 1675
 add.period$ -- 50
 call.type$ -- 50
 change.case$ -- 50
 chr.to.int$ -- 0
-cite$ -- 53
+cite$ -- 52
 duplicate$ -- 780
 empty$ -- 1117
-format.name$ -- 103
-if$ -- 3130
+format.name$ -- 104
+if$ -- 3132
 int.to.chr$ -- 0
 int.to.str$ -- 50
 missing$ -- 46
 newline$ -- 153
-num.names$ -- 49
-pop$ -- 144
+num.names$ -- 50
+pop$ -- 143
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
@@ -43,8 +42,8 @@ text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 3
-while$ -- 100
+warning$ -- 2
+while$ -- 101
 width$ -- 52
-write$ -- 492
-(There were 3 warnings)
+write$ -- 493
+(There were 2 warnings)

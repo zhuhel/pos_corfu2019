@@ -23,7 +23,7 @@ M.~Szleper, ``{The Higgs boson and the physics of $WW$ scattering before and
   after Higgs discovery},'' 2014.
 
 \bibitem{PhysRevLett.113.141803}
-``Evidence for electroweak production of
+{ATLAS Collaboration}, ``Evidence for electroweak production of
   ${W}^{\ifmmode\pm\else\textpm\fi{}}{W}^{\ifmmode\pm\else\textpm\fi{}}jj$ in
   $pp$ collisions at $\sqrt{s}=8\text{ }\text{ }\mathrm{TeV}$ with the atlas
   detector,'' {\em Phys. Rev. Lett.}, vol.~113, p.~141803, Oct 2014.
@@ -57,7 +57,7 @@ M.~Szleper, ``{The Higgs boson and the physics of $WW$ scattering before and
 
 \bibitem{ATLAS-TDR-2010-19}
 {ATLAS Collaboration}, ``{ATLAS Insertable B-Layer Technical Design Report}.''
-  ATLAS-TDR-19, 2010.
+  ATLAS-TDR-19, \url{https://cds.cern.ch/record/1291633}, 2010.
 
 \bibitem{Abbott:2018ikt}
 B.~Abbott {\em et~al.}, ``{Production and integration of the ATLAS Insertable
@@ -126,7 +126,7 @@ T.~{Sj\"ostrand}, S.~Mrenna, and P.~Z. Skands, ``{A brief introduction to
 
 \bibitem{ATL-PHYS-PUB-2014-021}
 {ATLAS Collaboration}, ``{ATLAS Pythia~8 tunes to $7\;\mbox{TeV}$ data}.''
-  {ATL-PHYS-PUB-2014-021}, 2014.
+  {ATL-PHYS-PUB-2014-021}, \url{https://cds.cern.ch/record/1966419}, 2014.
 
 \bibitem{SOFT-2010-01}
 {ATLAS Collaboration}, ``{The ATLAS Simulation Infrastructure},'' {\em Eur.
@@ -181,7 +181,8 @@ M.~Cacciari, G.~P. Salam, and G.~Soyez, ``{FastJet User Manual},'' {\em Eur.
 
 \bibitem{ATLAS-CONF-2018-038}
 {ATLAS Collaboration}, ``{Object-based missing transverse momentum significance
-  in the ATLAS detector}.'' {ATLAS-CONF-2018-038}, 2018.
+  in the ATLAS detector}.'' {ATLAS-CONF-2018-038},
+  \url{https://cds.cern.ch/record/2630948}, 2018.
 
 \bibitem{PhysRevD.92.094028}
 F.~Caola, K.~Melnikov, R.~R\"ontsch, and L.~Tancredi, ``Qcd corrections to $zz$
@@ -203,7 +204,7 @@ F.~Caola, K.~Melnikov, R.~R\"ontsch, and L.~Tancredi, ``Qcd corrections to $zz$
 \bibitem{ATLAS-CONF-2019-021}
 {ATLAS Collaboration}, ``{Luminosity determination in $pp$ collisions at
   $\sqrt{s}=13$ TeV using the ATLAS detector at the LHC}.''
-  {ATLAS-CONF-2019-021}, 2019.
+  {ATLAS-CONF-2019-021}, \url{http://cds.cern.ch/record/2677054}, 2019.
 
 \bibitem{LUCID2}
 G.~Avoni {\em et~al.}, ``The new lucid-2 detector for luminosity measurement

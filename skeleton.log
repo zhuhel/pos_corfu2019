@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.15)  24 FEB 2020 16:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.15)  26 MAR 2020 21:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -463,9 +463,12 @@ Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 \bframebox=\box66
 LaTeX Info: Redefining \\ on input line 3056.
 )
-(./skeleton-defs.sty) (./latex/atlasunit.sty) (./latex/atlasparticle.sty)
-(./latex/atlasjournal.sty
-(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/xspace.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (./skeleton-defs.sty) (./latex/atlasunit.sty) (./latex/atlasparticle.sty) (./
+latex/atlasjournal.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/xspa
+ce.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 ))
 (./latex/atlasmisc.sty
@@ -498,25 +501,25 @@ Package ifluatex Info: LuaTeX not detected.
 ))))
 atlasphysics: APHY@texlive is [2016]
 (./latex/atlasxref.sty))
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 27.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 30.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 ) (./skeleton.aux)
 \openout1 = `skeleton.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count288
@@ -557,86 +560,86 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for T1+phv on input line 49.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 52.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 49.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 49
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 52.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 52
 .
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 49
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 52
 .
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 49
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 52
 .
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 49
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 52
 .
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 49.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 52.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 49.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 49.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 49.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 52.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 52.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 52.
 <PoSlogo.pdf, id=2, 430.60875pt x 45.16875pt>
 File: PoSlogo.pdf Graphic file (type pdf)
 <use PoSlogo.pdf>
-Package pdftex.def Info: PoSlogo.pdf  used on input line 49.
+Package pdftex.def Info: PoSlogo.pdf  used on input line 52.
 (pdftex.def)             Requested size: 430.60768pt x 45.16862pt.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 52.
  [0
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./PoSlo
@@ -725,7 +728,7 @@ Dictionary: translator-basic-dictionary, Language: English
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 53.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 56.
  (./section/intro.tex
 <figures/diagram/diagram-EWZZjj-Schn-Higgs.pdf, id=29, 227.62239pt x 227.62239p
 t>
@@ -904,10 +907,10 @@ Z_4l_SR_v1.pdf>] (./skeleton.bbl [12 <./figures/llvv/BDT_2l2v_3lCR.pdf> <./figu
 res/4l/BDT_4l_QCD_CR_postFit_v1.pdf> <./figures/4l/BDT_4l_SR_postFit_v1.pdf> <.
 /figures/llvv/BDT_2l2v_SR_postFit_v1.pdf>] [13] [14]) [15] (./skeleton.aux) ) 
 Here is how much of TeX's memory you used:
- 16352 strings out of 492616
- 312375 string characters out of 6129480
- 329200 words of memory out of 5000000
- 19890 multiletter control sequences out of 15000+600000
+ 16424 strings out of 492616
+ 313267 string characters out of 6129480
+ 330307 words of memory out of 5000000
+ 19958 multiletter control sequences out of 15000+600000
  654684 words of font info for 229 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,16n,63p,1638b,751s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -929,7 +932,7 @@ ymbol/usyr.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/symbol/usyr.
 pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/
 local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texl
 ive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on skeleton.pdf (16 pages, 502199 bytes).
+Output written on skeleton.pdf (16 pages, 504611 bytes).
 PDF statistics:
  597 PDF objects out of 1000 (max. 8388607)
  472 compressed objects within 5 object streams

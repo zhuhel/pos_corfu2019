@@ -2,11 +2,14 @@
 % data according to the instructions in PoSauthmanual.pdf
 \documentclass{PoS}
 
+\newcommand*{\ATLASLATEXPATH}{latex/}
+
 \usepackage{amsmath}
 \usepackage{siunitx}
 \usepackage{multirow}
 \usepackage{lineno}
 \usepackage{graphicx}
+\usepackage{url}
 %\usepackage[utf8]{inputenc}
 %\usepackage[no-math]{fontspec}
 %\setmainfont{STIX}
@@ -20,7 +23,7 @@
 \usepackage{latex/atlasphysics}
 %\usepackage{latex/atlaspackage}
 
-\title{Messurement of inclusive cross section and observation of electroweak production of two jets in association with a $Z$-boson pair
+\title{Measurement of inclusive cross section and observation of electroweak production of two jets in association with a $Z$-boson pair
 in $pp$ collisions at $\sqrt{s} = 13$~\TeV~with the ATLAS detector
 }
 
@@ -95,7 +98,8 @@ in $pp$ collisions at $\sqrt{s} = 13$~\TeV~with the ATLAS detector
 \input{section/conclusion.tex}
 
 %-------------------------------------------------------------------------------
-\bibliography{bib/reference}
+%\bibliographystyle{bib/bst/atlasBibStyleWithTitle}
 \bibliographystyle{ieeetr}
+\bibliography{bib/reference}
 
 \end{document}
